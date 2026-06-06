@@ -1,4 +1,4 @@
-app/page.tsx
+
 import Link from 'next/link';
 import { ArrowRight, Zap, ShieldCheck, CreditCard, Smartphone } from 'lucide-react';
 import { Button } from '@/components/ui/button';
